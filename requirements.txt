@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.14
+pandas>=2.2
+matplotlib
+seaborn
+pytest
+numba
